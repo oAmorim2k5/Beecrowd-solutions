@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 R = float(input())
 pi = 3.14159
 
